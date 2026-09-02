@@ -1,2 +1,0 @@
-# FinCheck
-FinCheck Repository
