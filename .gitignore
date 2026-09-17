@@ -1,0 +1,19 @@
+# Ambiente virtual Python
+.venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Arquivos de ambiente
+.env
+
+# Arquivos gerados
+*.csv
+*.xlsx
+
+# Dataset local
+dataset/noticias/
